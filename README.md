@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:azaryageraldo79@gmail.com">📫 Email</a> •
-  <a href="www.linkedin.com/in/azarya-geraldo-nainggolan">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/azarya-geraldo-nainggolan/">LinkedIn</a> •
   <a href="https://your-portfolio.com">Portfolio</a>
 </p>
 
