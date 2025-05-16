@@ -1,12 +1,12 @@
-<h1 align="center">Hi there 👋, I'm [Nama Anda]</h1>
+<h1 align="center">Hi there 👋, I'm Azarya Geraldo</h1>
 
 <p align="center">
   Fullstack Developer | Information Systems Student | API Enthusiast
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">📫 Email</a> •
-  <a href="https://www.linkedin.com/in/yourlinkedin">LinkedIn</a> •
+  <a href="mailto:azaryageraldo79@gmail.com">📫 Email</a> •
+  <a href="www.linkedin.com/in/azarya-geraldo-nainggolan">LinkedIn</a> •
   <a href="https://your-portfolio.com">Portfolio</a>
 </p>
 
