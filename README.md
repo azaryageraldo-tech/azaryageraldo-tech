@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:azaryageraldo79@gmail.com">📫 Email</a> •
+  <a href="azaryageraldo79@gmail.com">📫 Email</a> •
   <a href="https://www.linkedin.com/in/azarya-geraldo-nainggolan/">LinkedIn</a> •
   <a href="https://your-portfolio.com">Portfolio</a>
 </p>
@@ -55,9 +55,9 @@ Hi! I'm a passionate **Fullstack Web Developer** currently pursuing a degree in 
 
 If you're looking to collaborate on a project or just want to say hi, feel free to reach out!
 
-- 🔗 LinkedIn: [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
+- 🔗 LinkedIn: https://www.linkedin.com/in/azarya-geraldo-nainggolan/
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 📩 Email: your.email@example.com
+- 📩 Email:azaryageraldo79@gmail.com
 
 ---
 
