@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm AntiCode 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+Node.js;Lifelong+Learner+%F0%9F%93%9A;Welcome+to+my+GitHub!&center=true&width=440&height=45&color=58a6ff&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Web+Developer;NextJS+%7C+React+%7C+Node.js;Lifelong+Learner+%F0%9F%93%9A;Welcome+to+my+GitHub!&center=true&width=440&height=45&color=58a6ff&vCenter=true&size=22" />
 </p>
 
 ---
