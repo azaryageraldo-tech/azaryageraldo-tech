@@ -56,7 +56,7 @@ Hi! I'm a passionate **Fullstack Web Developer** currently pursuing a degree in 
 If you're looking to collaborate on a project or just want to say hi, feel free to reach out!
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/azarya-geraldo-nainggolan/
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🌐 Portfolio: azaryageraldo.vercel.app
 - 📩 Email:azaryageraldo79@gmail.com
 
 ---
