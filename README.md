@@ -7,7 +7,7 @@
 <p align="center">
   <a href="azaryageraldo79@gmail.com">📫 Email</a> •
   <a href="https://www.linkedin.com/in/azarya-geraldo-nainggolan/">LinkedIn</a> •
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="(https://azaryageraldo.vercel.app)">Portfolio</a>
 </p>
 
 ---
